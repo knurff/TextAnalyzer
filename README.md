@@ -2,7 +2,8 @@
 
 
 ## About
-TextAnalyzer is is a simple application to get statistics about the text inside many files that may be in different directories. You can get:
+TextAnalyzer is a simple application to get statistics about the text inside many files that may be in different directories.
+You can get:
 * list of words that occur most frequently;
 * list of words which are the least common;
 * general statistics about the number of words.
